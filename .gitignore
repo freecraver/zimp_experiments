@@ -133,3 +133,4 @@ datasets/*
 !datasets/preprocessed/
 fasttext/language_identification/
 *.csv
+pos/dependency_treebank/
